@@ -1,0 +1,6 @@
+POST http://localhost:3000/socktype/1
+Content-Type: application/json
+
+{
+    "color": ""
+}
